@@ -1,0 +1,36 @@
+		.wu-slider {
+		 position:fixed;
+		 z-index:1000;
+		}
+
+		.wu-left {
+		 left:0;
+		}
+		
+		.wu-right {
+		 right:0;
+		}
+		
+		.wu-icon {
+		 cursor:pointer;
+		 background-repeat:no-repeat;
+		 display:block;
+		}
+
+		.wu-64 {
+		 width:64px;
+		 height:64px;	
+		}
+		
+		.wu-48 {
+		 width:48px;
+		 height:48px;	
+		}
+		
+		.wu-32 {
+		 width:32px;
+		 height:32px;	
+		}	
+		
+ 
+		 
